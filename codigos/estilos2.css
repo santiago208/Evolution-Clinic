@@ -1,0 +1,61 @@
+.imagen1 {
+    position: relative;
+    left: 320px;
+}
+/*menú*/
+.menu {
+    width: 1400px;
+  
+}
+
+/*Los mejores medicos*/
+.lo1 {
+  padding: 15px;
+  width: 480px;
+  position: relative;
+  bottom:10px;
+}
+
+.none {   
+    position: absolute;
+}
+.contenedor2 { 
+    width: 800px;
+    position: absolute;
+    bottom: -590px;
+    left: 555px
+}
+.articulos {
+
+    width: 900px;
+    position: relative;
+    left: 235px;
+}
+
+/*publicidad*/
+
+.contenedor {
+    position: absolute;
+    
+}
+.publicidad {
+    background: lightslategrey;
+    border-radius: 5px;
+    width: 180px;
+    height: 970px;
+    padding: 15px;
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
+}
+.publicidad2 {
+    background: lightslategray;
+    border-radius: 5px;
+    width: 180px;
+    height: 970px;
+    padding: 15px;
+    position: absolute;
+    bottom: 5px;
+    left: 1160px;
+    
+}
